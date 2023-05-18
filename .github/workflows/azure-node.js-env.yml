@@ -1,0 +1,14 @@
+- name: Setup Node.js environment
+  uses: actions/setup-node@v2.5.2
+  with:
+    always-auth: null
+    node-version: null
+    node-version-file: null
+    architecture: null
+    check-latest: null
+    registry-url: null
+    scope: null
+    token: null
+    cache: null
+    cache-dependency-path: null
+    version: null
